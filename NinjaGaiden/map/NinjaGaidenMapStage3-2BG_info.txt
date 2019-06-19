@@ -1,0 +1,9 @@
+0 Brick
+1 Wall
+2 Enemy_1
+3 Enemy_gun
+4 Enemy_Throw
+5 Animal
+6 carrier2
+7 Eagle
+8 Run
