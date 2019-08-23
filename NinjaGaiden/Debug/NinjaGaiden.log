@@ -1,0 +1,282 @@
+﻿  Camera.cpp
+  Enemy.cpp
+  EnemyAnimal.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  EnemyBoss.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  EnemyEagle.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  EnemyGun.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\EnemyEagle.cpp(31,31): warning C4305:  'argument': truncation from 'double' to 'float'
+  EnemyRun.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\EnemyRun.cpp(1,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  EnemyThrow.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Enemy_Bullet.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Enemy_Projectile.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Enemy_Bullet.cpp(33,38): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  GameObject.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Ryu.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  SpatialGrid.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Sprites.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\SpatialGrid.cpp(24,13): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Sprites.cpp(32,66): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Stage3_1.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Sprites.cpp(32,62): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,66): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,66): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,66): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,66): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,66): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,58): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,58): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,58): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,58): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,58): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,50): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,50): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,50): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,50): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,50): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,42): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,42): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,42): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,42): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(34,42): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,65): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,65): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,65): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,65): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,65): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,57): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,57): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,57): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,57): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,57): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,49): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,49): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,49): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,49): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,49): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,41): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,41): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,41): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,41): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(40,41): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,50): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,50): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,50): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,50): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,50): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,42): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,42): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,42): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,42): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(48,42): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,55): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,55): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,55): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,55): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,55): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,47): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,47): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,47): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,47): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(54,47): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,55): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,55): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,55): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,55): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,55): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,47): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,47): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,47): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,47): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(61,47): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,53): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,53): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,53): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,53): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,53): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,45): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,45): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,45): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,45): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(67,45): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,56): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,56): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,56): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,56): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,56): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,48): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,48): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,48): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,48): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(74,48): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,55): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,55): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,55): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,55): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,55): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,47): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,47): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,47): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,47): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(79,47): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(168,12): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  Stage3_2.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_1.cpp(169,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,65): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,65): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,65): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,65): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,65): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,57): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,57): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,57): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,57): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,57): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,49): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,49): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,49): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,49): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,49): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,41): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,41): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,41): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,41): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(27,41): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,66): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,66): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,66): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,66): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,66): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,58): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,58): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,58): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,58): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,58): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,50): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,50): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,50): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,50): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,50): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,42): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,42): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,42): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,42): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(32,42): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,50): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,50): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,50): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,50): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,50): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,42): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,42): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,42): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,42): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(37,42): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,53): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,53): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,53): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,53): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,53): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,45): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,45): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,45): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,45): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(42,45): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,55): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,55): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,55): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,55): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,55): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,47): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,47): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,47): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,47): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(48,47): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,56): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,56): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,56): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,56): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,56): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,48): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,48): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,48): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,48): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(55,48): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,55): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,55): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,55): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,55): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,55): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,47): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,47): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,47): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,47): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(62,47): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,55): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,55): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,55): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,55): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,55): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,47): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,47): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,47): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,47): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(68,47): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,53): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,53): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,53): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,53): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,53): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,45): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,45): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,45): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,45): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(73,45): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(154,13): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  Stage3_3.cpp
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_2.cpp(155,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\GameObject.h(98,31): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(51,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(51,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,65): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,65): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,65): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,65): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,65): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,57): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,57): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,57): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,57): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,57): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,49): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,49): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,49): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,49): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,49): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,41): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,41): warning C4244:         with
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,41): warning C4244:         [
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,41): warning C4244:             _Ty=int
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(67,41): warning C4244:         ]
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(164,13): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  Textures.cpp
+  Generating Code...
+C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\NinjaGaiden\Stage3_3.cpp(165,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  NinjaGaiden.vcxproj -> C:\Users\Khoa\Desktop\Ninja-Gaiden-NES-\Debug\NinjaGaiden.exe
